@@ -109,7 +109,11 @@ const Home = () => (
         Some reasons that made me want to be a web developer/programmer that it&apos;s fun and challenging to create projects.
         <br/>
         <br/>
-        In my co-op, I joined a team called CHAA, also known as Canadian Horse Auction Alternative. It is an auction that helps promote adoption rather than the slaughter of horses. It was a fun and challenging experience because I was weak with React.js but over time, I was able to get my task done. I was tasked to help add in missing features and improve the website with mobile responsiveness and web design using MERN stack and Material UI.
+        Previously, I had my co-op at Red River Polytech to help a client build a website for horse adoption.
+        Every morning, we would do an standup meeting where we talked about what did yesterday, what our goal is and if we encountered any problems. 
+        We would also do AGILE SCRUM meetings to talk about if we need to implement new features on the website. 
+        The tech stack that I had the opportunity to learn is the MERN tech stack, which is MongoDB, Express.js,React.js, and Node.js. 
+        I also learned interpersonal skills like communication and teamwork to make a smooth progression to reach our goal.
         </Paragraph>
         <Box align="center" my={4}>
           <Button
