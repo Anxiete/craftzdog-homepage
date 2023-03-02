@@ -117,6 +117,12 @@ const Navbar = props => {
                 <MenuItem as={MenuLink} href="/stacks">
                   Tech Stack
                 </MenuItem>
+                <MenuItem
+                  as={Link}
+                  href="https://github.com/Anxiete/craftzdog-homepage"
+                >
+                  View Source
+                </MenuItem>
               </MenuList>
             </Menu>
           </Box>
