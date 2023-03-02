@@ -16,7 +16,7 @@ const Work = () => (
   <Layout title="Canadian Horse Auction Alternative">
     <Container maxW='container.sm'>
       <Title>
-        Canadian Horse Auction Alternative <Badge>2015</Badge>
+        Canadian Horse Auction Alternative <Badge>2022</Badge>
       </Title>
       <P>
         A website that I contributed to when working during my co-op. The client wanted a website
