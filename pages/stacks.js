@@ -7,7 +7,6 @@ import {
     Box
   } from '@chakra-ui/react'
 
-import { MdSettings } from 'react-icons/md'
 import Section from '../components/section'
 import Layout from '../components/layouts/article'
 

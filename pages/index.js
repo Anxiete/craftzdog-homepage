@@ -106,7 +106,7 @@ const Home = () => (
         I specialize in creating websites that are optimized for all devices, with a focus on providing an exceptional user experience for audiences, no matter how they access the site.
         I have been interested in technology ever since I was little. 
         The time when I started to get interested more is when I started to watch PC building and programming videos. 
-        Some reasons that made me want to be a web developer/programmer that it's fun and challenging to create projects.
+        Some reasons that made me want to be a web developer/programmer that it&apos;s fun and challenging to create projects.
         <br/>
         <br/>
         In my co-op, I joined a team called CHAA, also known as Canadian Horse Auction Alternative. It is an auction that helps promote adoption rather than the slaughter of horses. It was a fun and challenging experience because I was weak with React.js but over time, I was able to get my task done. I was tasked to help add in missing features and improve the website with mobile responsiveness and web design using MERN stack and Material UI.
