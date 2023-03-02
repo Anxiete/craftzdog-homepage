@@ -13,7 +13,7 @@ const Main = ({ children, router }) => {
         <meta name="author" content="Rodcel Isaac Macalinao (Owner: Takuya Matsuyama)" />
         <meta name="author" content="portfolio" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/developer_logo2.png" type="image/x-icon" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></link>
         <title>Rodcel Isaac Macalinao - Homepage</title>
       </Head>
