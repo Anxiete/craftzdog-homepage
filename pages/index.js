@@ -145,7 +145,7 @@ const Home = () => (
           Moved to Winnipeg, Canada
         </BioSection>
         <BioSection>
-          <BioYear>2021</BioYear>
+          <BioYear>2022</BioYear>
           Co-op at Red River College making a{' '}
           <Link as={NextLink} href="https://www.canadahorseauctionalternative.com" passHref>
           website 
