@@ -184,7 +184,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://github.com/Anxiete" target="_blank">
+            <Link href="https://www.linkedin.com/in/rodcel-isaac-macalinao-052b9a193/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
